@@ -1,25 +1,12 @@
 ## Hi, I'm mango0422 👋
 
-<!--
-**mango0422/mango0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![코드트리|실력진단-mango0422](https://banner.codetree.ai/v1/banner/mango0422)](https://www.codetree.ai/profiles/mango0422)
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom990422)](https://solved.ac/tom990422/) -->
 
 
-### 기술스택
+### Tech Stack
 <p align="center"> 📋 Once I've Used </p>
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -40,3 +27,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
+🌱 I’m currently learning about Cloud Computing (AWS, GCP) and Microservices Architecture.   
+<!-- 🔭 Check out my recent project: [Project Name](https://github.com/your-repo).   -->
+💬 Ask me about Backend Development, Cloud Deployment, and CI/CD.   
+📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/%EC%9A%A9%EC%A4%80-%EC%84%9C-15a5a52b9/)) | Email: mango0422@gmail.com   
+🛠️ Tools: Visual Studio Code, IntelliJ, Postman, Figma, Docker Desktop    
+![mango0422's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango0422&show_icons=true&theme=radical)
