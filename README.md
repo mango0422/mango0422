@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 [![코드트리|실력진단-mango0422](https://banner.codetree.ai/v1/banner/mango0422)](https://www.codetree.ai/profiles/mango0422)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom990422)](https://solved.ac/tom990422/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom990422)](https://solved.ac/tom990422/) -->
 
 ### 기술스택
 <p align="center">
