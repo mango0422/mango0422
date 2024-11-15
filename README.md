@@ -4,7 +4,7 @@
 
 
 [![코드트리|실력진단-mango0422](https://banner.codetree.ai/v1/banner/mango0422)](https://www.codetree.ai/profiles/mango0422)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom990422)](https://solved.ac/tom990422/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tom990422)](https://solved.ac/tom990422/)
 ![mango0422's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango0422&show_icons=true&theme=radical)
 
 ### Tech Stack
