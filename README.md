@@ -4,9 +4,8 @@
 
 
 [![코드트리|실력진단-mango0422](https://banner.codetree.ai/v1/banner/mango0422)](https://www.codetree.ai/profiles/mango0422)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom990422)](https://solved.ac/tom990422/)
-
+![mango0422's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango0422&show_icons=true&theme=radical)
 
 ### Tech Stack
 <p align="center"> 📋 Once I've Used </p>
@@ -33,5 +32,4 @@
 <!-- 🔭 Check out my recent project: [Project Name](https://github.com/your-repo).   -->
 💬 Ask me about Backend Development, Cloud Deployment, and CI/CD.   
 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/%EC%9A%A9%EC%A4%80-%EC%84%9C-15a5a52b9/)) | Email: mango0422@gmail.com   
-🛠️ Tools: Visual Studio Code, IntelliJ, Postman, Figma, Docker Desktop    
-![mango0422's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango0422&show_icons=true&theme=radical)
+🛠️ Tools: Visual Studio Code, IntelliJ, Postman, Figma, Docker Desktop
