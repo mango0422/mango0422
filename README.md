@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&color0=ffcb6b&height=180&section=header&text=YONGJUN%27s%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ## Hi, I'm mango0422 👋
