@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&color0=ffcb6b&height=180&section=header&text=YONGJUN%27s%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&color0=ffcb6b&height=180&section=header&text=서용준%27s%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
 
 
-## Hi, I'm mango0422 👋
+<!-- ## Hi, I'm mango0422 👋 -->
 
 <!-- [![코드트리|실력진단-mango0422](https://banner.codetree.ai/v1/banner/mango0422)](https://www.codetree.ai/profiles/mango0422) -->
 ![mango0422's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango0422&show_icons=true&theme=radical)
