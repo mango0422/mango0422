@@ -7,9 +7,10 @@
 ![mango0422's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango0422&show_icons=true&theme=radical)
 ![Programmer's Badge](https://raw.githubusercontent.com/mango0422/Programmers_Badge_Generator/9868cb123681750915e963ad4487df0036e12a2f/result/result.svg)
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tom990422)](https://solved.ac/tom990422/)
-<a href="https://github.com/devxb/gitanimals">
+<!-- <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/mango0422"/>
 </a>
+-->
 ### Tech Stack
 <p align="center"> 📋 Main Tech Stack </p>
 <p align="center">
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
-🌱 I’m currently learning about Cloud Computing (AWS, GCP) and Web Develops(FE - nextjs, BE - springboot).   
+🌱 I’m currently learning about Cloud Computing (AWS, GCP) and Web Develops(FE - nextjs, BE - springboot, INFRA - docker).   
 <!-- 🔭 Check out my recent project: [Project Name](https://github.com/your-repo).   -->
 💬 Ask me about Backend Development, Cloud Deployment, and CI/CD.   
 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/%EC%9A%A9%EC%A4%80-%EC%84%9C-15a5a52b9/)) | Email: mango0422@gmail.com   
