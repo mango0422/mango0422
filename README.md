@@ -14,9 +14,9 @@
 ### Tech Stack
 <p align="center"> 📋 Main Tech Stack </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<!--  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<!--  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> -->
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -29,7 +29,7 @@
 <!--   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/argo-ef7b4d?style=for-the-badge&logo=argo&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<!--  <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> -->
 </p>
 
 🌱 I’m currently learning about Cloud Computing (AWS, GCP) and Web Develops(FE - nextjs, BE - springboot, INFRA - docker).   
